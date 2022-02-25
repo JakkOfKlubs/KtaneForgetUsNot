@@ -682,7 +682,7 @@ public class AdvancedMemory : MonoBehaviour
             case ("NumberWang"): r = 232; break;
             case ("Minecraft Survival"): r = 343; break;
             case ("Fencing"): r = 744; break;
-            case ("Strike solve"): r = 415; break;
+            case ("Strike Solve"): r = 415; break;
             case ("Uncolored Switches"): r = 067; break;
             case ("Name Changer"): r = 609; break;
             case ("Just Numbers"): r = 978; break;
@@ -833,7 +833,7 @@ public class AdvancedMemory : MonoBehaviour
             case ("Double Listening"): r = 785; break;
             case ("Wack Game Of Life"): r = 465; break;
             case ("Unfair's Revenge"): r = 186; break;
-            case ("Unfair's cruel revenge"): r = 187; break;
+            case ("Unfair's Cruel Revenge"): r = 187; break;
             case ("Mindlock"): r = 335; break;
             case ("Golf"): r = 596; break;
             case ("Regular Hexpressions"): r = 889; break;
